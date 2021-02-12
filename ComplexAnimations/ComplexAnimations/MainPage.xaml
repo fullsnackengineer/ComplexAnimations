@@ -13,7 +13,7 @@
             HorizontalOptions="Center"/>
         
         <Image
-            Source="https://www.pinclipart.com/picdir/big/528-5287011_snowflake-images-clip-art-snowflake-clipart-transparent-snow.png"
+            Source="snowflake"
             x:Name="referenceImage"
             HeightRequest="50"
             WidthRequest="50"

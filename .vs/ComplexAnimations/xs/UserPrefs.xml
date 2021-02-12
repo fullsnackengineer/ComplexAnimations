@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{1CE350EB-EE81-4E20-AF3B-3108C9451D08}|Default">
+  <MonoDevelop.Ide.ItemProperties.ComplexAnimations.Android PreferredExecutionTarget="Android.Pixel_3a_API_28" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComplexAnimations" expanded="True">
+            <Node name="ComplexAnimations.iOS" expanded="True">
+              <Node name="Assets.xcassets" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
