@@ -113,6 +113,8 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\snowflake.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\snowflake.imageset\snowflake.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -129,8 +131,11 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\ComplexAnimations\ComplexAnimations.csproj">
-      <Project>{C6EDAB5A-4FF2-4F7B-87C1-E2CC431BE317}</Project>
+      <Project>{931B7645-49E3-44B1-8457-3C7EFB305C8B}</Project>
       <Name>ComplexAnimations</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets.xcassets\snowflake.imageset\" />
   </ItemGroup>
 </Project>
