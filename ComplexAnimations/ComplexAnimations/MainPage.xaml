@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ComplexAnimations.MainPage">
+
+    <Grid BackgroundColor="DarkGray" x:Name="particleContainer">
+        <Label
+            Text="Snowflake"
+            TextColor="LightBlue"
+            FontSize="50"
+            FontAttributes="Bold"
+            VerticalOptions="Start"
+            HorizontalOptions="Center"/>
+        
+        <Image
+            Source="https://www.pinclipart.com/picdir/big/528-5287011_snowflake-images-clip-art-snowflake-clipart-transparent-snow.png"
+            x:Name="referenceImage"
+            HeightRequest="50"
+            WidthRequest="50"
+            HorizontalOptions="Start"
+            VerticalOptions="Start"
+            Opacity="0"/>    
+        
+        
+    </Grid>
+
+</ContentPage>
